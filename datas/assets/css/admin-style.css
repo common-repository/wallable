@@ -1,0 +1,96 @@
+i.icon-save{
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	float: left;
+	margin-right: 8px;
+	margin-top: 5px;
+}
+div#wallable-config-tabs{
+	font-size: 14px;
+	font-weight: normal;
+}
+div.dataTables_paginate,
+div.dataTables_info{
+	font-size: 14px;
+	font-style: italic;
+}
+div#wallable-config-tabs td,
+div#wallable-config-tabs input{
+	font-size: 14px;
+	font-weight: normal;
+}
+ul.pagination{
+	font-size: 14px;
+}
+div.dataTables_filter label{
+	font-size: 14px;
+}
+i.icon-show{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	cursor: pointer;
+}
+i.icon-delete{
+	width: 20px;
+	height: 20px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	cursor: pointer;
+}
+i.icon-edit{
+	width: 26px;
+	height: 26px;
+	display: inline-block;
+	float: left;
+	margin-left: 10px;
+	cursor: pointer;
+}
+div#item-list{
+	width: 100%;
+	clear: both;
+}
+div#item-list div.item-add{
+	width: 100%;
+	clear: both;
+	height: auto;
+	display: block;
+	text-align: left;
+	font-size: 12px;
+	padding-left: 10px;
+	height: 22px;
+	line-height: 22px;
+	color: #CCC;
+}
+div#item-list div.item-add i.add-icon{
+	background:url(../images/add-address.png) no-repeat left;
+	height: 25px;
+	width:25px;
+	cursor: pointer;
+	clear: both;
+	float: left;
+	padding-right: 10px;
+}
+div#item-list img.item-image{
+	-webkit-box-shadow: 0px 0px 5px -1px #FFF!important;
+	-moz-box-shadow:    0px 0px 5px -1px #FFF!important;
+	box-shadow:         0px 0px 5px -1px #FFF!important;
+	-webkit-border-radius: 4px!important;
+	-moz-border-radius: 4px!important;
+	border-radius: 4px!important;
+	border: 1px solid #CCC!important;
+}
+div#profile-list img.profile-img,
+div#comment-list img.profile-img{
+	-webkit-box-shadow: 0px 0px 5px -1px #FFF!important;
+	-moz-box-shadow:    0px 0px 5px -1px #FFF!important;
+	box-shadow:         0px 0px 5px -1px #FFF!important;
+	-webkit-border-radius: 4px!important;
+	-moz-border-radius: 4px!important;
+	border-radius: 4px!important;
+	border: 1px solid #CCC!important;
+}
